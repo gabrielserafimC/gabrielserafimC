@@ -1,5 +1,5 @@
 # Gabriel Serafim
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha trajetória na área de tecnologia com foco em **Engenharia de Dados e Desenvolvimento de Software**. Buscando transformar o aprendizado em aplicações e projetos práticos.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha trajetória na área de tecnologia com foco em **Desenvolvimento de Software**. Buscando transformar o aprendizado em aplicações e projetos práticos.
 
 ---
 
